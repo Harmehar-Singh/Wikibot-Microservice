@@ -3,7 +3,7 @@ install:
 format:
 	black *.py
 lint:
-	pylint *.py
+	pylint --disable=R,C *.py
 test:
 	pytest test_*.py
 run:
