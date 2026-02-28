@@ -1,0 +1,12 @@
+wikipedia
+uvicorn
+pytest
+black
+pylint
+ipython
+fire
+pydantic
+mlflow
+pandas
+fastapi
+docker
